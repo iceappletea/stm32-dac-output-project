@@ -167,6 +167,12 @@ Phase (°) = wave_offset × (360 / 256) = wave_offset × 1.40625
   參考 CSDN 用戶「玄奕子」分享的 HC-05 控制範例（USART 指令接收處理）
 
 ---
-
 ## 🖼️ Screenshots
 
+![page51](media/page51.png)  
+![page52](media/page52.png)  
+![page53](media/page53.png)  
+
+🎞️ The following video demonstrates the actual operation of the STM32 DAC output, connected to a commercial oscilloscope to confirm the accuracy and precision of the output waveform.
+
+[![DAC video]](media/DAC.mp4)
